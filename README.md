@@ -922,3 +922,10 @@ The system uses:
 | **Random Forest** | **0.86** | **0.84** | **0.85** | **0.84** |
 
 **Random Forest is the best-performing model** across both accuracy and F1-score, demonstrating strong generalization capability on clinical data.
+
+<h2 id="mentor">Mentor</h2>
+  <p><strong>Dr. Sahinur Rahman Laskar</strong><br>
+  Assistant Professor<br>
+  School of Computer Science, UPES, Dehradun, India<br>
+  Email: sahinurlaskar.nits@gmail.com / sahinur.laskar@ddn.upes.ac.in<br>
+  </p
