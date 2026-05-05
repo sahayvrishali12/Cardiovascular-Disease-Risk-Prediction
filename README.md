@@ -21,9 +21,9 @@
 | 8 | Student Performance Level Analysis | 17-02-26 |
 | 9 | Physiological Signal Classification | 24-02-26 |
 | 10 | Iris Classification | 24-02-26 |
-| 11 | Diabetes Prediction using Ensemble Learning | — |
-| 12 | L1 & L2 Regularization on Melbourne Housing Dataset | — |
-| 13 | Cardiovascular Disease Risk Prediction | — |
+| 11 | Diabetes Prediction using Ensemble Learning | 02-03-2026 |
+| 12 | L1 & L2 Regularization on Melbourne Housing Dataset | 02-03-2026 |
+| 13 | Cardiovascular Disease Risk Prediction | 09-03-2026 |
 
 ---
 
